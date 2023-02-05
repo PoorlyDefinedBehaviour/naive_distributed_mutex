@@ -1,0 +1,1 @@
+https://blog.the-pans.com/state-machine-and-sync/
